@@ -1,0 +1,6 @@
+Object:
+  - username=uid
+  - password=password
+  - title=sttt
+  - loginButton=btnLogin
+  - resetButton=btnReset
